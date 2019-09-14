@@ -37,7 +37,3 @@ git clone https://github.com/rrrlw/read-pdf.git
 cd read-pdf
 ./read-pdf.sh TestRecord.pdf 5 output.txt
 ```
-
-### Acknowledgments
-
-The creation of read-pdf was supported by funds from the 2019 William B. Bean award of the American Osler Society.
