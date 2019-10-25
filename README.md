@@ -37,3 +37,8 @@ git clone https://github.com/rrrlw/read-pdf.git
 cd read-pdf
 ./read-pdf.sh TestRecord.pdf 5 output.txt
 ```
+
+### Contribute
+
+To contribute to this repository, please fork it and submit a pull request with modifications.
+For ease of review, please also include what you changed and why.
